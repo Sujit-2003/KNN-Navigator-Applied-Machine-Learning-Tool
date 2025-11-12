@@ -3,7 +3,7 @@
 A complete implementation of the K-Nearest Neighbors (KNN) classification algorithm built from scratch using only NumPy. Features both 2D and 3D visualization capabilities with custom distance calculations and classification logic, demonstrating the fundamental concepts behind this popular machine learning algorithm.
 
 ## Author
-**Macha Praveen**
+**K Sujit Varma**
 
 ## Overview
 
